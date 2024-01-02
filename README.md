@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MarcusTantakoun
-- 🌱 I’m currently learning Computer Science at Queen's University
+- 🌱 I’m currently studying Computer Science at Queen's University
 - 💞️ I’m looking to collaborate on an app
 - 📫 How to reach me: mtantakoun@gmail.com
